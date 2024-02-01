@@ -77,43 +77,35 @@ const links = [
     url: "https://investvegan.org",
     description:
       "A radically accessible partner for individuals and institutions interested in sustainable long-term investing."  
-    color: "#E95800",
+    color: "#ebdaf0",
   },
   {
     text: "Free Money",
     url: "https://freemoney.substack.com/",
     description:
       "A damn good podcast about (you guessed it) long-term investing.",
-    color: "#1099A8",
+    color: "#4af2a1",
   },
   {
     text: "Woodcache PBC",
     url: "https://woodcache.org/",
     description:
       "A leading developer of highly measurable, deeply restorative, and fundamentally sensible carbon removal.",
-    color: "#BC027F",
+    color: "#008000",
   },
   {
-    text: "Conceptual Guides",
-    url: "https://www.gatsbyjs.com/docs/conceptual/",
+    text: "Linkedin",
+    url: "https://www.linkedin.com/in/srvo0/",
     description:
-      "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
-    color: "#0D96F2",
+      "One of the easier ways to send me a message.",
+    color: "#6638f0",
   },
   {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
+    text: "Instagram",
+    url: "https://www.instagram.com/sloaneortel/",
     description:
       "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-    color: "#8EB814",
-  },
-  {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
-    badge: true,
-    description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
-    color: "#663399",
+    color: "#6638f0",
   },
 ]
 
@@ -125,7 +117,7 @@ const IndexPage = () => {
         <br />
         <span style={headingAccentStyles}>— I'm Sloane Ortel</span>
       </h1>
-      <p I'm involved in a lot of projects. Here are a few of them:
+      <p I'm involved in a lot of long-term projects. Here are a few of them, plus a handful of the social profiles I use most often:
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>

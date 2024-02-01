@@ -117,7 +117,6 @@ const IndexPage = () => {
         <br />
         <span style={headingAccentStyles}>— I'm Sloane Ortel</span>
       </h1>
-      <p I'm involved in a lot of long-term projects. Here are a few of them, plus a handful of the social profiles I use most often:</p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a

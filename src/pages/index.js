@@ -77,7 +77,7 @@ const links = [
     url: "https://investvegan.org",
     description:
       "A radically accessible partner for individuals and institutions interested in sustainable long-term investing."  
-    color: "#ebdaf0",
+    ,color: "#ebdaf0",
   },
   {
     text: "Free Money",

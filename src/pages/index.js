@@ -55,12 +55,6 @@ const descriptionStyle = {
   lineHeight: 1.25,
 }
 
-const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
-  color: "#8954A8",
-}
-
 const badgeStyle = {
   color: "#fff",
   backgroundColor: "#088413",
@@ -79,24 +73,24 @@ const badgeStyle = {
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial/",
+    text: "Invest Vegan",
+    url: "https://investvegan.org",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "A radically accessible partner for individuals and institutions interested in sustainable long-term investing."  
     color: "#E95800",
   },
   {
-    text: "How to Guides",
-    url: "https://www.gatsbyjs.com/docs/how-to/",
+    text: "Free Money",
+    url: "https://freemoney.substack.com/",
     description:
-      "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
+      "A damn good podcast about (you guessed it) long-term investing.",
     color: "#1099A8",
   },
   {
-    text: "Reference Guides",
-    url: "https://www.gatsbyjs.com/docs/reference/",
+    text: "Woodcache PBC",
+    url: "https://woodcache.org/",
     description:
-      "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
+      "A leading developer of highly measurable, deeply restorative, and fundamentally sensible carbon removal.",
     color: "#BC027F",
   },
   {
@@ -127,13 +121,11 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Congratulations
+        Hey there!
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
+        <span style={headingAccentStyles}>— I'm Sloane Ortel</span>
       </h1>
-      <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
+      <p I'm involved in a lot of projects. Here are a few of them:
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
